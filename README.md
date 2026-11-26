@@ -35,10 +35,6 @@
 
 ---
 
-
-
----
-
 ## 这是什么
 
 对外报价与压价的固定决策流：先收背景再报价→首报不报最低留空间→异议砍服务不降价→预算不够转介绍合作讲师。红线：一次降价即成该渠道永久基准价。触发：客户压价怎么办/这单怎么报/要不要降价。只管已进入报价谈判环节，接不接单归 client-qualification。English: discount / negotiation。 metadata: cangjie.generated-by: cangjie-tools v2.5.0 cangjie.capability-id: cap.ai-training-profit-model.quote-negotiation cangjie.capability-revision: 1 cangjie.bundle-id: bundle.ai-training-profit-model cangjie.source-title: 我做了50场A
@@ -68,6 +64,17 @@ MIT License
 添加时请备注：GitHub-quote-negotiation
 
 > 不提供免费技术支持。问题请走 Issue。
+
+---
+
+## 如果要商用
+
+代码是 MIT，商用不需要问我，改、卖、二次开发都行。
+
+不过商用场景通常比自用麻烦：部署环境、数据合规、出了问题谁兜底。真要落到业务里，
+可以先跟我说一声，这些坑我大概率踩过。
+
+微信 **enhaopang**，备注 `GitHub-仓库名`。
 
 ---
 
